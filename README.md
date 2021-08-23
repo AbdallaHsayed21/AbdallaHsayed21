@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abdallah Elsayed
+- 👀 I’m interested in Android Developer using JAVA and UI UX Designer.
+- 🌱 I have a Bachelor's degree in computer science.
